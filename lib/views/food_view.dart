@@ -46,6 +46,8 @@ class _FoodViewState extends State<FoodView> {
     return Card(
       child: ListTile(
         leading: Image.network(url),
+        subtitle: Icon(Icons.play_arrow),
+        title: Icon(Icons.favorite),
       ),
     );
   }
