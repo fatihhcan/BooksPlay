@@ -1,4 +1,4 @@
-import 'package:burgerfoodui/views/food_view.dart';
+import 'package:burgerfoodui/views/home_view.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
